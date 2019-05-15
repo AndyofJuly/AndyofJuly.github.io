@@ -2,25 +2,25 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://andyofjuly.github.io/
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
+title: Blog
+subtitle: "我自是年少，韶华倾负"
 description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
-timezone: Asia/Shanghai
+keywords: 清风向晚
+timezone: China/Chengdu
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: 谢少杰
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: andyofjuly
+location: Chengdu, China
+email: 1107322916@qq.com
 
 # ---------------- #
 #    Navigation    #
