@@ -95,14 +95,14 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: andyofjuly
+    owner: AndyofJuly
     repo: blog-comments
     oauth:
         client_id: 3cded229af2bfea326da
         client_secret: eeb4dc463db9721c3532228207acaa2bf9675255
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: andyofjuly
+    owner: AndyofJuly
     repo: blog-comments
     clientID: 4e7df6dee5d9a316be1e
     clientSecret: 3d255c1cd73f6952a7b6797848c64349fe9279ad
