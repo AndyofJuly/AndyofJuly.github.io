@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: 科技改变世界
+description: 山间之明月，江山之清风
 keywords: Xie ShaoJie,谢少杰
 comments: true
 menu: 关于
