@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: AndyofJuly/andyofjuly.github.io
 
 # ---------------- #
 #      Comments    #
@@ -96,14 +96,14 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: AndyofJuly
-    repo: 'andyofjuly.github.io'
+    repo: andyofjuly.github.io
     oauth:
         client_id: 3cded229af2bfea326da
         client_secret: eeb4dc463db9721c3532228207acaa2bf9675255
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: AndyofJuly
-    repo: 'andyofjuly.github.io'
+    repo: andyofjuly.github.io
     clientID: 4e7df6dee5d9a316be1e
     clientSecret: 3d255c1cd73f6952a7b6797848c64349fe9279ad
 # 在使用其它评论组件时可点击显示 Disqus
