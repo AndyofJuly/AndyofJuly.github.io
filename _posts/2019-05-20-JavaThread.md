@@ -71,7 +71,6 @@ keywords: Java,Thread
 
 # 一、线程状态转换
 
-<div align="center"> <img src="pics/adfb427d-3b21-40d7-a142-757f4ed73079.png" width="600px"> </div><br>
 
 ## 新建（New）
 
