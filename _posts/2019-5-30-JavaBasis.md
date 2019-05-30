@@ -1,3 +1,14 @@
+---
+layout: post
+title: java基础复习
+categories: java
+description: java的基础复习巩固
+keywords: Java,Basis
+---
+java的一些基础知识，方便复习总结
+
+**目录**
+
 <!-- GFM-TOC -->
 * [一、数据类型](#一数据类型)
     * [基本类型](#基本类型)
