@@ -1,3 +1,15 @@
+---
+layout: post
+title: 如何增强代码可读性
+categories: java
+description: 代码书写规范的方式
+keywords: Java,beautiful code
+---
+博文主要介绍了代码的规范性书写方式
+
+**目录**
+
+
 <!-- GFM-TOC -->
 * [一、可读性的重要性](#一可读性的重要性)
 * [二、用名字表达代码含义](#二用名字表达代码含义)
@@ -48,11 +60,9 @@
 - 用 min、max 表示数量范围；
 - 用 first、last 表示访问空间的包含范围；
 
-<div align="center"> <img src="pics/7d97dde0-0695-4707-bb68-e6c13a2e1b45.png" width="200px"> </div><br>
 
 - begin、end 表示访问空间的排除范围，即 end 不包含尾部。
 
-<div align="center"> <img src="pics/d85870db-f28c-48c3-9d24-85a36fda5e51.png" width="200px"> </div><br>
 
 # 四、良好的代码风格
 
@@ -333,7 +343,3 @@ public int findClostElement(int[] arr) {
 - Dustin, Boswell, Trevor, 等. 编写可读代码的艺术 [M]. 机械工业出版社, 2012.
 
 
-
-
-</br><div align="center">🎨️欢迎关注我的公众号 CyC2018，在公众号后台回复关键字 **资料** 可领取复习大纲，这份大纲是我花了一整年时间整理的面试知识点列表，不仅系统整理了面试知识点，而且标注了各个知识点的重要程度，从而帮你理清多而杂的面试知识点。可以说我基本是按照这份大纲来进行复习的，这份大纲对我拿到了 BAT 头条等 Offer 起到很大的帮助。你们完全可以和我一样根据大纲上列的知识点来进行复习，就不用看很多不重要的内容，也可以知道哪些内容很重要从而多安排一些复习时间。</div></br>
-<div align="center"><img width="180px" src="https://cyc-1256109796.cos.ap-guangzhou.myqcloud.com/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg"></img></div>
