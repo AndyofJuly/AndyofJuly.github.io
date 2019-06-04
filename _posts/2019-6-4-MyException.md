@@ -12,3 +12,4 @@ keywords: Java
 想着把这些问题记录下来，自己多回顾，以后再遇到相似的问题解决起来也更容易。
 
 ![异常处理](https://github.com/AndyofJuly/andyofjuly.github.io/images/newimage/ex-nullpoint.png)
+![异常处理](https://github.com/AndyofJuly/andyofjuly.github.io/blob/master/images/newimage/ex-nullpoint.png)
