@@ -16,5 +16,4 @@ keywords: Java
 
 最后成功的测试结果：
 
-![异常处理](https://github.com/AndyofJuly/andyofjuly.github.io/blob/master/images/newimage/ex-nullpoint.png)
 ![](/images/newimage/ex-nullpoint.png)
